@@ -15,7 +15,7 @@ for file in glob.glob("data/*.csv"):
     df = df[columns]
     all_data = all_data.append(df, ignore_index=True)
 
-# Write to an Excel file (automatically overwrites)
+#Write to an Excel file (automatically overwrites)
 # with pd.ExcelWriter("output.xlsx") as writer:
 #     all_data.to_excel(writer, index=False)
 

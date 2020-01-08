@@ -9,7 +9,7 @@ This project is to demonstrate the following skills:
 
 ### Updates ###
 **1/6/2019** <br>
-I just finished the excel combining file that writes to a database. I plan to turn this into callable functions where the user can specify the columns they want to keep and whether to write to excel or sqlite. Then it will be able to be used for more than just the soccer data, it could be used to combine any CSVs
+I just finished the excel combining file that writes to a database. I plan to turn this into callable functions where the user can specify the columns they want to keep and whether to write to excel or SQLite. Then it will be able to be used for more than just the soccer data, it could be used to combine any CSVs
 
 **Next Steps**
 - Create python notebook with data analysis
