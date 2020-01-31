@@ -1,3 +1,5 @@
+***This project is currently on hold because I am in the middle of working on a machine learning project for an independent study, and I am quite busy during the semester. Fully planning on picking this back up once I have more time.***
+
 # Premier League Analysis #
 This is a project I am working on in my own time to analyze soccer data. I am taking a bunch of CSVs, each with a year of premier league data, combining them and writing them to a SQLite Database. Then I am going to some analytics on the data using the database of the combined data. I am planning on looking at my favorite team, West Ham United.
 
