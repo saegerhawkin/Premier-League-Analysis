@@ -17,6 +17,10 @@ I just finished the excel combining file that writes to a database. I plan to tu
 - Created python notebook with a start on data analysis
 - Did initial exploratory analysis
 
+**12/13/2020**
+- Updated code
+- Prepped dataset for modelling.
+
 ### Future Plans ###
 - Optimize excel combining file
   - Turn it into a class
